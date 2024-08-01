@@ -1,0 +1,1 @@
+pyuic6 -o ImageWin.py ImageWin.ui

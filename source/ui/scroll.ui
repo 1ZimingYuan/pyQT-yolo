@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>485</width>
+    <height>417</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QScrollArea" name="scrollArea">
+      <property name="sizeAdjustPolicy">
+       <enum>QAbstractScrollArea::AdjustIgnored</enum>
+      </property>
+      <property name="widgetResizable">
+       <bool>true</bool>
+      </property>
+      <widget class="QWidget" name="scrollAreaWidgetContents_2">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>465</width>
+         <height>355</height>
+        </rect>
+       </property>
+       <layout class="QVBoxLayout" name="verticalLayout_2">
+        <item>
+         <widget class="QLabel" name="label">
+          <property name="text">
+           <string>正式发文二请问认为其二为人父微软温热微软放弃为人情味人的去微软去微软啊set微软微软微软为娃儿啊微软AWERAWERAWER WERAWE  WERAWERWERAWERAWERAWERWERQWERASEGFSDAFAW WERW A EWR AWERAW E额我让他二十日他二十日他色弱特色让他色弱tear特殊瑞特让他二如图色瑞特虽然统一颜色让他二十日他额 正式发文二请问认为其二为人父微软温热微软放弃为人情味人的去微软去微软啊set微软微软微软为娃儿啊微软AWERAWERAWER WERAWE  WERAWERWERAWERAWERAWERWERQWERASEGFSDAFAW WERW A EWR AWERAW E额我让他二十日他二十日他色弱特色让他色弱tear特殊瑞特让他二如图色瑞特虽然统一颜色让他二十日他额 </string>
+          </property>
+          <property name="wordWrap">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>485</width>
+     <height>22</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

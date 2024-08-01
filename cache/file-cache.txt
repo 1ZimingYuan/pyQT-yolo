@@ -1,0 +1,3 @@
+D:/code/python/pyqt/yolo/source/image/bus.jpg
+D:/code/python/pyqt/yolo/source/model/pt/yolov8n.pt
+D:/code/python/pyqt/yolo/source/rst
